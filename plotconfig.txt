@@ -1,0 +1,55 @@
+{
+    "markers": [
+        {
+            'd': '2022-09-19',
+            't': 0,
+            'l': 'solid',
+            'c': '#db129b',
+            'n': 'Fall Quarter Begins',
+            'i': 19
+        },
+        {
+            'd': '2022-09-22',
+            't': 0,
+            'l': 'solid',
+            'c': '#8db80f',
+            'n': 'Instruction Begins',
+            'i': 20
+        },
+        {
+            # deadline to add courses is 10/07, but use 10/08 12am
+            'd': '2022-10-08',
+            't': 0,
+            'l': 'solid',
+            'c': '#c94418',
+            'n': 'Deadline to Enroll/Add',
+            'i': 21
+        },
+        {
+            # drop w/o W is 10/21, but use 10/22 12am
+            'd': '2022-10-22',
+            't': 0,
+            'l': 'solid',
+            'c': '#352987',
+            'n': 'Drop w/o W',
+            'i': 22
+        },
+        {
+            # drop w W is 11/28, but use 11/29 12am
+            'd': '2022-11-29',
+            't': 0,
+            'l': 'solid',
+            'c': '#303f59',
+            'n': 'Drop w/ W',
+            'i': 23
+        }
+    ],
+    "regions": [],
+    "settings": {
+        "termName": "Fall 2022",
+        "showTotal": True,
+        "useEnrolledTtl": True,
+        "useMarkers": True,
+    },
+    "version": 2
+}
