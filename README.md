@@ -1,7 +1,8 @@
 # Fall 2022 Enrollment Data: Graduate Courses
 Enrollment data for some graduate courses in Fall 2022 at UC San Diego.
 
-I will start uploading data on **May 20, 2022**.
+[Click here if you just want to be able to see each individual CSV file and graph.](https://github.com/UCSD-Historical-Enrollment-Data/2022FallGrad/blob/main/TOC.md)
+
 
 ## Supported Courses
 | Course Level                   | Courses to be Tracked                               | Amount |
